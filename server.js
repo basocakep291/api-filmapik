@@ -9,7 +9,7 @@ const jsdom = require('jsdom')
 const { JSDOM } = jsdom
 const axios = require('axios')
 
-const domain = 'http://103.194.171.18'
+const domain = 'https://5.182.209.205/'
 
 app.use(cors({ origin: '*' }))
 
